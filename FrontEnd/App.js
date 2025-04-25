@@ -77,6 +77,7 @@ export default function App() {
           </>
         ) : (
           // App screens based on user type
+          //
           <>
             {userType === "donor" ? (
               <Stack.Screen
