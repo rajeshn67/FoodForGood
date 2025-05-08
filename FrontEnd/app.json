@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0c660277-7a02-4499-9373-0f3faea1eb79"
+      }
+    },
+    "android": {
+      "package": "com.rajeshn67.rnstarter"
+    }
+  }
+}
